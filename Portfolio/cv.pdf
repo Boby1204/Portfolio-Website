@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<!-- saved from url=(0022)http://127.0.0.1:5500/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+    
+    <script src="./cv_files/feather-icons"></script>
+<link rel="stylesheet" href="./cv_files/style.css"></head>
+
+
+<body>
+    <div class="container">
+        <div class="profile">
+            <div class="profile_container">
+                <div class="profile_profileImg">
+                    <img src="./cv_files/profileImage.jpg" alt="Boby Kanyal">
+                </div>
+            <div>
+                <h1 class="profile_name">
+                    <span class="profile_name_firstName">Boby</span>
+                    <span class="profile_name_lastName">Kanyal</span>
+                </h1>
+                <p class="profile_title">Software Developer</p>
+           <p class="description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem sint atque inventore nemo. Odit expedita quod repellendus dolore adipisci cumque quis possimus voluptate veniam suscipit beatae doloribus, saepe corrupti dolores!</p>
+        <a class="downloadBtn" href="http://127.0.0.1:5500/cv.pdf" download="Resume.pdf">Download Btn</a>
+        </div>
+    </div>
+</div>
+<div class="group-1">
+    <div class="skills">
+        <h3 class="title">Expertise</h3>
+        <ul class="skill_list description">
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JAVA</li>
+            <li>JAVAFx</li>
+        </ul>
+    </div>
+
+    <div class="ref">
+        <h3 class="title">Reference</h3>
+        <div class="ref_item"></div>
+        <h4 class="ref_name">AccioJob</h4>
+        <p class="description">Lorem, ipsum dolor sit 
+            amet consectetur adipisicing elit. Incidunt ea
+             assumenda recusandae ab beatae nulla, temporibus
+              saepe.</p>
+              <div class="ref_item"></div>
+              <h4 class="ref_name">AccioJob</h4>
+              <p class="description">Lorem, ipsum dolor sit 
+                  amet consectetur adipisicing elit. Incidunt ea
+                   assumenda recusandae ab beatae nulla, temporibus
+                    saepe.</p>
+
+    </div>
+
+    <div class="edu">
+        <h3 class="title"> Education</h3>
+        <div class="edu_item">
+            <p class="item_preTitle">2018-2022</p>
+            <h4 class="item_title">Btech in CSE</h4>
+            <p class="item_subtitle">
+                NPSEI Pithoragarh
+            </p>
+        </div>
+        <div class="edu_item">
+            <p class="item_preTitle">2016-2017</p>
+            <h4 class="item_title">Intermediate</h4>
+            <p class="item_subtitle">
+                New Beersheba School Pithoragarh
+            </p>
+        </div>
+    </div>
+    
+    <div class="certification">
+        <h3 class="title">certification</h3>
+        <div class="certification_item">
+            <p class="item_preTitle">2018</p>
+            <h4 class="item_title">Frontend Developer</h4>
+            <p class="description">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            </p>
+        </div>
+    </div>
+
+</div>
+<div class="group-2">
+    <div class="exp">
+        <h3 class="title">Experience</h3>
+        <div class="exp_item">
+            <p class="item_preTitle">2019-2022</p>
+            <h4 class="item_title">Boby Software ltd</h4>
+            <p class="item_subtitle">Frontend Developer</p>
+            <p class="description">Lorem, ipsum dolor sit 
+                amet consectetur adipisicing elit. Nostrum similique excepturi nihil.
+            </p>
+</div>
+<div class="exp_item">
+    <p class="item_preTitle">2019-2022</p>
+    <h4 class="item_title">Boby Software ltd</h4>
+    <p class="item_subtitle">Frontend Developer</p>
+    <p class="description">Lorem, ipsum dolor sit 
+        amet consectetur adipisicing elit. Nostrum similique excepturi nihil.
+    </p>
+</div>
+    </div>
+
+    <div class="awards">
+        <h3 class="title">Awards</h3>
+        <div class="awards_item">
+            <p class="item_preTitle">2018</p>
+            <h4 class="item_title">Frontend Developer</h4>
+            <p class="item_subtitle"></p>
+            <p class="description">Lorem, ipsum dolor sit 
+                amet consectetur adipisicing elit. Nostrum similique excepturi nihil.
+            </p>
+        </div>
+        <div class="awards_item">
+            <p class="item_preTitle">2018</p>
+            <h4 class="item_title">Frontend Developer</h4>
+            <p class="item_subtitle"></p>
+            <p class="description">Lorem, ipsum dolor sit 
+                amet consectetur adipisicing elit. Nostrum similique excepturi nihil.
+            </p>
+        </div>       
+    </div>
+
+    <div class="interest">
+        <h3 class="title">Interest</h3>
+        <div class="interest_items">
+            <div class="interest_item">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-book-open"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path></svg>
+                <span>Poetry writing</span>
+            </div>
+
+                <div class="interest_item">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-camera"><path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"></path><circle cx="12" cy="13" r="4"></circle></svg>
+                    <span>Photography</span>
+                </div>
+
+                    <div class="interest_item">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-map"><polygon points="1 6 1 22 8 18 16 22 23 18 23 2 16 6 8 2 1 6"></polygon><line x1="8" y1="2" x2="8" y2="18"></line><line x1="16" y1="6" x2="16" y2="22"></line></svg>
+                        <span>Trekking</span>
+                    </div>
+        </div>
+    </div>
+</div>
+<hr class="hr">
+<div class="group-3">
+    <div class="contact">
+        <h3 class="title">Contact</h3>
+        <div class="contact_info">
+            <p class="description">
+                Pithoragarh
+            </p>
+            <p class="description">8958211297</p>
+            <p class="description">jhc@gmail.com</p>
+        </div>
+    </div>
+    <div class="socials">
+        <h3 class="title">Socials</h3>
+        <div class="social_items">
+            <a href="http://127.0.0.1:5500/" class="social_item">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-github"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg>
+                <span>Boby1204</span>
+            </a>
+            <a href="http://127.0.0.1:5500/" class="social_item">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-linkedin"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle></svg>
+                <span>Boby1204</span>
+            </a>
+            <a href="http://127.0.0.1:5500/" class="social_item">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-twitter"><path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"></path></svg>
+                <span>Boby1204</span>
+            </a>
+        </div>
+    </div>
+</div>
+</div>
+<script>
+    feather.replace()
+  </script>
+<!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+
+</body></html>
